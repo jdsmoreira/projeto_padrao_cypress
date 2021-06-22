@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://automationpractice.com/index.php",
+    "watchForFileChanges": false,
+    "experimentalSourceRewriting": true,
+    "viewportWidth": 1536,
+    "viewportHeight": 960
+}
